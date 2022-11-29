@@ -1,0 +1,15 @@
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\bin\Debug\net6.0\SelectionStatementSwitchC32.exe
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\bin\Debug\net6.0\SelectionStatementSwitchC32.deps.json
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\bin\Debug\net6.0\SelectionStatementSwitchC32.runtimeconfig.json
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\bin\Debug\net6.0\SelectionStatementSwitchC32.dll
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\bin\Debug\net6.0\SelectionStatementSwitchC32.pdb
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.csproj.AssemblyReference.cache
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.AssemblyInfoInputs.cache
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.AssemblyInfo.cs
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.csproj.CoreCompileInputs.cache
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.dll
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\refint\SelectionStatementSwitchC32.dll
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.pdb
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\SelectionStatementSwitchC32.genruntimeconfig.cache
+C:\Users\19102\source\repos\SelectionStatementSwitchC32\SelectionStatementSwitchC32\obj\Debug\net6.0\ref\SelectionStatementSwitchC32.dll
